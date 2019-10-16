@@ -1,0 +1,38 @@
+{
+	"name": "hiqstd/flarum-ext-close",
+	"description": "Make your discussions that other people can't see.",
+	"keywords": [
+		"extension", "flarum", "discussion", "private", "restricted", "close"
+	],
+	"type": "flarum-extension",
+	"license": "MIT",
+	"require": {
+		"flarum/core": ">=0.1.0-beta.8 <0.1.0-beta.12"
+	},
+	"support": {
+		"issues": "https://github.com/hiqstd/flarum-ext-close/issues",
+		"source": "https://github.com/hiqstd/flarum-ext-close"
+	},
+	"authors": [
+		{
+			"name": "vetosers",
+			"email": "vetosers@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"HiQStd\\Close\\": "src/"
+		}
+	},
+	"extra": {
+		"flarum-extension": {
+			"title": "Close",
+			"icon": {
+				"name": "fas fa-eye-slash",
+				"backgroundColor": "#D13E32",
+				"color": "#FFF"
+			}
+		}
+	}
+}
