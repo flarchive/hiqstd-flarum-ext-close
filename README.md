@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of hiqstd/flarum-ext-close.** Not for installation: use [Packagist](https://packagist.org/packages/hiqstd/flarum-ext-close) or the [upstream repository](https://github.com/HiQStd/flarum-ext-close).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/hiqstd-flarum-ext-close/tree/archive/v1.0.0) · License: `MIT` · Flarum: `>=0.1.0-beta.8 <0.1.0-beta.12`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/hiqstd-flarum-ext-close/tree/archive/v1.0.0) · License: `MIT` · Flarum: `>=0.1.0-beta.8 <0.1.0-beta.12`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2019-10-16 | `>=0.1.0-beta.8 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/hiqstd-flarum-ext-close/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/hiqstd-flarum-ext-close.json](https://github.com/flarchive/archive-index/blob/main/packages/hiqstd-flarum-ext-close.json)
 
